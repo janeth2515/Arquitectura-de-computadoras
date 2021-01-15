@@ -6,7 +6,7 @@ body {
 
 .cover{
   height: 400px;
-  background-image:url(https://cdn.glitch.com/4c8cc7d1-9617-4086-a6d3-711095e7111d%2Fportadaw.jpg?v=1610682376449);
+  background-image:url(../img/portadaw.jpg);
   color: white;
   background-size: cover;
   background-position :center;
