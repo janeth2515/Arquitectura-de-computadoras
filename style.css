@@ -1,0 +1,17 @@
+/* CSS files add styling rules to your content */
+
+body {
+  margin: 2em;
+}
+
+.cover{
+  height: 400px;
+  background-image:url(https://cdn.glitch.com/4c8cc7d1-9617-4086-a6d3-711095e7111d%2Fportadaw.jpg?v=1610682376449);
+  color: white;
+  background-size: cover;
+  background-position :center;
+  background-color:rgba(0,0,0,.5);
+  background-blend-mode: darken;
+  
+}
+
